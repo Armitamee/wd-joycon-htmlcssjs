@@ -1,8 +1,9 @@
 .tombol{
     background-color: aqua;
-    width: 1300px; 
-    height: 720px;
+    width: 700px; 
+    height: 400px;
 }
+
 button{
     background-color: transparent;
     color: #000;
@@ -14,6 +15,30 @@ button{
 
 .btnup{
     position: absolute;
-    left: 30px;
-    top: 108px;
+    left: 110px;
+    top: 110px;
+}
+
+.btndown{
+    position: absolute;
+    left: 110px;
+    top: 190px;
+}
+
+.btnleft{
+    position: absolute;
+    left: 20px;
+    top: 150px;   
+}
+
+.btnright{
+    position: absolute;
+    left: 200px;
+    top: 150px;    
+}
+
+.btnA{
+    position: absolute;
+    left: 300px;
+    top: 150px;    
 }
