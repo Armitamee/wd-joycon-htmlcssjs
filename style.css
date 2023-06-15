@@ -1,8 +1,19 @@
-btnup{
+.tombol{
+    background-color: aqua;
+    width: 1300px; 
+    height: 720px;
+}
+button{
     background-color: transparent;
-    color: #fff;
-    border:solid 2px #FFFFFF;
+    color: #000;
+    border:solid 2px #000;
     height: 40px;
     width: 70px;
     margin: 0 110px 30px;
+}
+
+.btnup{
+    position: absolute;
+    left: 30px;
+    top: 108px;
 }
