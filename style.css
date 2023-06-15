@@ -39,6 +39,17 @@ button{
 
 .btnA{
     position: absolute;
-    left: 300px;
+    left: 400px;
     top: 150px;    
+}
+.btnB{
+    position: absolute;
+    left: 500px;
+    top: 150px;  
+}
+
+p{
+    padding-top: 10px;
+    padding-left: 350px;
+    border:solid 1px #000;  
 }
